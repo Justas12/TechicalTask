@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\Desktop\TechnicalTask\bin\Debug\netcoreapp3.1\TechnicalTask.exe
+C:\Users\ThinkPad\Desktop\TechnicalTask\bin\Debug\netcoreapp3.1\TechnicalTask.deps.json
+C:\Users\ThinkPad\Desktop\TechnicalTask\bin\Debug\netcoreapp3.1\TechnicalTask.runtimeconfig.json
+C:\Users\ThinkPad\Desktop\TechnicalTask\bin\Debug\netcoreapp3.1\TechnicalTask.runtimeconfig.dev.json
+C:\Users\ThinkPad\Desktop\TechnicalTask\bin\Debug\netcoreapp3.1\TechnicalTask.dll
+C:\Users\ThinkPad\Desktop\TechnicalTask\bin\Debug\netcoreapp3.1\TechnicalTask.pdb
+C:\Users\ThinkPad\Desktop\TechnicalTask\obj\Debug\netcoreapp3.1\TechnicalTask.csprojAssemblyReference.cache
+C:\Users\ThinkPad\Desktop\TechnicalTask\obj\Debug\netcoreapp3.1\TechnicalTask.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\TechnicalTask\obj\Debug\netcoreapp3.1\TechnicalTask.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\Desktop\TechnicalTask\obj\Debug\netcoreapp3.1\TechnicalTask.AssemblyInfo.cs
+C:\Users\ThinkPad\Desktop\TechnicalTask\obj\Debug\netcoreapp3.1\TechnicalTask.dll
+C:\Users\ThinkPad\Desktop\TechnicalTask\obj\Debug\netcoreapp3.1\TechnicalTask.pdb
+C:\Users\ThinkPad\Desktop\TechnicalTask\obj\Debug\netcoreapp3.1\TechnicalTask.genruntimeconfig.cache
